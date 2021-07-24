@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gba_input.h": "c",
+        "titlebg2.h": "c"
+    }
+}
