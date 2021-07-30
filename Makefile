@@ -22,8 +22,8 @@ include $(DEVKITARM)/gba_rules
 #---------------------------------------------------------------------------------
 TARGET		:= $(notdir $(CURDIR))
 BUILD		:= build
-SOURCES		:= asm source resources
-INCLUDES	:= include resources
+SOURCES		:= asm source images text
+INCLUDES	:= include images text
 DATA		:= data
 AUDIO		:= music
 
